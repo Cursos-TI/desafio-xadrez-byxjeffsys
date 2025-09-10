@@ -25,3 +25,4 @@ for (casatorre = 1; casatorre <= 5; casatorre++) {
     printf("Torre anda uma casa a frente.\n");
 }
 }
+
